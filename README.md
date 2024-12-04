@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**brunomdsilva/brunomdsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Web developer with 3+ years of experience building modern applications. Specializing in admin interfaces with FilamentPHP and expanding into React ecosystem.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Backend**: Laravel, FilamentPHP, PestPHP
+- **Frontend**: Vue.js, React, TailwindCSS, TypeScript
+- **Tools**: GitHub, Inertia.js
+- **Packages**: [Check out my favorites](https://github.com/yourusername?tab=stars)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Role
+**Web Developer @ Traction** (Aug 2020 - Present)  
+Tech: Laravel, Vue.js, TailwindCSS, FilamentPHP
+
+## Featured Project
+**[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS).
+
+## Connect With Me
+- GitHub: https://github.com/brunomdsilva
+- Email: brunosilva010601@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bruno-m-silva-24bb4222a/
