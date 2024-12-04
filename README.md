@@ -6,7 +6,7 @@ I'm a Full-Stack Web developer with 3+ years of experience building modern appli
 - **Backend**: Laravel, FilamentPHP, PestPHP
 - **Frontend**: Vue.js, React, TailwindCSS, TypeScript
 - **Tools**: GitHub, Inertia.js
-- **Packages**: [Check out my favorites](https://github.com/yourusername?tab=stars)
+- **Packages**: [Check out my favorites](https://github.com/brunomdsilva?tab=stars)
 
 ## Current Role
 **Web Developer @ Traction** (Aug 2020 - Present)  
