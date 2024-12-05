@@ -12,8 +12,9 @@ I'm a Full-Stack Web developer with 3+ years of experience building modern appli
 **Web Developer @ Traction** (Aug 2020 - Present)  
 Stack: Laravel, Vue.js, TailwindCSS, FilamentPHP
 
-## Featured Project
-**[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS).
+## Projects
+- **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS).  
+- **[GrandParking](https://grandparking.com.br)** - Parking management system with admin/client portals (Laravel, FilamentPHP) and WordPress institutional website
 
 ## Connect With Me
 - GitHub: https://github.com/brunomdsilva
