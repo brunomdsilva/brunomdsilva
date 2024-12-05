@@ -10,7 +10,7 @@ I'm a Full-Stack Web developer with 3+ years of experience building modern appli
 
 ## Current Role
 **Web Developer @ Traction** (Aug 2020 - Present)  
-Tech: Laravel, Vue.js, TailwindCSS, FilamentPHP
+Stack: Laravel, Vue.js, TailwindCSS, FilamentPHP
 
 ## Featured Project
 **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS).
