@@ -18,5 +18,5 @@ Stack: Laravel, Vue.js, TailwindCSS, FilamentPHP
 
 ## Connect With Me
 - GitHub: https://github.com/brunomdsilva
-- Email: brunosilva010601@gmail.com
+- Email: brunoo.m.d.silva@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bruno-m-silva-24bb4222a/
