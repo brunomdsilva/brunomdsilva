@@ -16,6 +16,15 @@ Stack: Laravel, Vue.js, TailwindCSS, FilamentPHP
 - **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS).  
 - **[GrandParking](https://grandparking.com.br)** - Parking management system with admin/client portals (Laravel, FilamentPHP) and WordPress institutional website
 
+## Static Projects
+Small applications built during my initial frontend learning journey with Vue.js:
+- **[Tic Tac Toe](https://brunomdsilva.github.io/tictactoe/)** - State management practice
+- **[Todo App](https://brunomdsilva.github.io/todo-app/)** - Basic CRUD operations
+- **[Countries API](https://brunomdsilva.github.io/countries-api/)** - REST API integration
+- **[Salient Landing](https://brunomdsilva.github.io/salient/)** - Responsive design
+- **[Rock Paper Scissors](https://brunomdsilva.github.io/rock-paper-scissors-master/)** - Game logic
+- **[Multi Step Form](https://brunomdsilva.github.io/multi-step-form/)** - Form validation practice
+
 ## Connect With Me
 - GitHub: https://github.com/brunomdsilva
 - Email: brunoo.m.d.silva@gmail.com
