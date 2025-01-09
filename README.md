@@ -1,9 +1,9 @@
 # Hello! 👋
 
-I'm a Full-Stack Web developer with 3+ years of experience building modern applications. Specializing in admin interfaces with FilamentPHP and expanding into React ecosystem.
+Full-Stack Web developer with 3+ years experience specializing in Laravel ecosystem and admin interfaces. Skilled in FilamentPHP, Vue.js and expanding into React development.
 
 ## Tech Stack
-- **Backend**: Laravel, FilamentPHP, PestPHP
+- **Backend**: Laravel, FilamentPHP, PestPHP, MySQL
 - **Frontend**: Vue.js, React, TailwindCSS, TypeScript
 - **Tools**: GitHub, Inertia.js
 - **Packages**: [Check out my favorites](https://github.com/brunomdsilva?tab=stars)
@@ -13,11 +13,13 @@ I'm a Full-Stack Web developer with 3+ years of experience building modern appli
 Stack: Laravel, Vue.js, TailwindCSS, FilamentPHP
 
 ## Projects
-- **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS).  
+- **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS)
 - **[GrandParking](https://grandparking.com.br)** - Parking management system with admin/client portals (Laravel, FilamentPHP) and WordPress institutional website
+- **[Klubs](https://klubs.co/)** @ Traction - All-in-one platform for creating and monetizing exclusive online communities with gamification features and courses
+- **[Pipelead](https://pipelead.to/)** @ Traction - Sales pipeline and lead management platform with comprehensive metrics tracking, ROI analysis and team performance tools
 
-## Static Projects
-Small applications built during my initial frontend learning journey with Vue.js:
+## Early Projects
+Small applications built while learning frontend development with Vue.js:
 - **[Tic Tac Toe](https://brunomdsilva.github.io/tictactoe/)** - State management practice
 - **[Todo App](https://brunomdsilva.github.io/todo-app/)** - Basic CRUD operations
 - **[Countries API](https://brunomdsilva.github.io/countries-api/)** - REST API integration
