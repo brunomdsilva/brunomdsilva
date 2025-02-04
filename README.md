@@ -15,8 +15,8 @@ Stack: Laravel, Vue, TailwindCSS, FilamentPHP
 ## Projects
 - **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS)
 - **[GrandParking](https://grandparking.com.br)** - Parking management system with admin/client portals (Laravel, FilamentPHP) and WordPress institutional website
-- **[Klubs](https://klubs.co/)** @ Traction - All-in-one platform for creating and monetizing exclusive online communities with gamification features and courses
-- **[Pipelead](https://pipelead.to/)** @ Traction - Sales pipeline and lead management platform with comprehensive metrics tracking, ROI analysis and team performance tools
+- **[Klubs @ Traction](https://klubs.co/)** - All-in-one platform for creating and monetizing exclusive online communities with gamification features and courses
+- **[Pipelead @ Traction](https://pipelead.to/)** - Sales pipeline and lead management platform with comprehensive metrics tracking, ROI analysis and team performance tools
 
 ## Early Projects
 Small applications built while learning frontend development with Vue.js:
