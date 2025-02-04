@@ -1,16 +1,16 @@
 # Hello! 👋
 
-Full-Stack Web developer with 3+ years experience specializing in Laravel ecosystem and admin interfaces. Skilled in FilamentPHP, Vue.js and expanding into React development.
+Full-Stack Web developer with 3+ years experience specializing in Laravel ecosystem and admin interfaces. Skilled in FilamentPHP, Vue and expanding into React development.
 
 ## Tech Stack
 - **Backend**: Laravel, FilamentPHP, PestPHP, MySQL
-- **Frontend**: Vue.js, React, TailwindCSS, TypeScript
-- **Tools**: GitHub, Inertia.js
+- **Frontend**: Vue, React, TailwindCSS, TypeScript
+- **Tools**: GitHub, Inertia
 - **Packages**: [Check out my favorites](https://github.com/brunomdsilva?tab=stars)
 
 ## Current Role
 **Web Developer @ Traction** (Aug 2020 - Present)  
-Stack: Laravel, Vue.js, TailwindCSS, FilamentPHP
+Stack: Laravel, Vue, TailwindCSS, FilamentPHP
 
 ## Projects
 - **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS)
