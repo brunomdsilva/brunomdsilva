@@ -19,7 +19,7 @@ Stack: Laravel, Vue, TailwindCSS, FilamentPHP
 - **[Pipelead @ Traction](https://pipelead.to/)** - Sales pipeline and lead management platform with comprehensive metrics tracking, ROI analysis and team performance tools
 
 ## Early Projects
-Small applications built while learning frontend development with Vue.js:
+Small applications built during my initial frontend development journey with Vue.js:
 - **[Tic Tac Toe](https://brunomdsilva.github.io/tictactoe/)** - State management practice
 - **[Todo App](https://brunomdsilva.github.io/todo-app/)** - Basic CRUD operations
 - **[Countries API](https://brunomdsilva.github.io/countries-api/)** - REST API integration
