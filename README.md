@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Full-Stack Web developer with 3+ years experience specializing in Laravel ecosystem and admin interfaces. Skilled in FilamentPHP, Vue and expanding into React development.
+Full-Stack Web developer with 4+ years experience specializing in Laravel ecosystem and admin interfaces. Skilled in FilamentPHP, Vue and expanding into React development.
 
 ## Tech Stack
 - **Backend**: Laravel, FilamentPHP, PestPHP, MySQL
