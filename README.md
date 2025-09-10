@@ -10,7 +10,7 @@ Full-Stack Web developer with 4+ years experience specializing in Laravel ecosys
 
 ## Current Role
 **Web Developer @ Traction** (Aug 2020 - Present)  
-Stack: Laravel, Vue, TailwindCSS, FilamentPHP
+Stack: Laravel, Vue, FilamentPHP, TailwindCSS, Typescript
 
 ## Projects
 - **[Investio](https://github.com/brunomdsilva/investio)** - Portfolio project demonstrating RILT stack capabilities (React, Inertia, Laravel, TailwindCSS)
